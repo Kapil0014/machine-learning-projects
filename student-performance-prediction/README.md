@@ -11,3 +11,17 @@ Predict student exam scores based on study hours using Machine Learning.
 - Matplotlib
 
 ## 📂 Folder Structure
+student-performance-prediction/
+├── data/
+├── notebook/
+├── src/
+├── README.md
+└── requirements.txt
+## 🚀 ML Workflow
+1. Load dataset
+2. Perform exploratory data analysis
+3. Train Linear Regression model
+4. Evaluate model performance
+
+## 📈 Status
+✅ Beginner ML project (Improving step-by-step)
